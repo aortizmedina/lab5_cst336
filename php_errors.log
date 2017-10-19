@@ -1,0 +1,158 @@
+[17-Oct-2017 22:26:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 14
+[17-Oct-2017 22:26:54 UTC] PHP Stack trace:
+[17-Oct-2017 22:26:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[17-Oct-2017 22:26:54 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:14
+[17-Oct-2017 22:26:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 14
+[17-Oct-2017 22:26:56 UTC] PHP Stack trace:
+[17-Oct-2017 22:26:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[17-Oct-2017 22:26:56 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:14
+[18-Oct-2017 18:57:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 21
+[18-Oct-2017 18:57:11 UTC] PHP Stack trace:
+[18-Oct-2017 18:57:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 18:57:11 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:21
+[18-Oct-2017 18:58:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 21
+[18-Oct-2017 18:58:38 UTC] PHP Stack trace:
+[18-Oct-2017 18:58:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 18:58:38 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:21
+[18-Oct-2017 18:59:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 21
+[18-Oct-2017 18:59:14 UTC] PHP Stack trace:
+[18-Oct-2017 18:59:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 18:59:14 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:21
+[18-Oct-2017 19:00:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 24
+[18-Oct-2017 19:00:35 UTC] PHP Stack trace:
+[18-Oct-2017 19:00:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:00:35 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:24
+[18-Oct-2017 19:00:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 25
+[18-Oct-2017 19:00:35 UTC] PHP Stack trace:
+[18-Oct-2017 19:00:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:00:35 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:25
+[18-Oct-2017 19:00:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 36
+[18-Oct-2017 19:00:35 UTC] PHP Stack trace:
+[18-Oct-2017 19:00:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:00:35 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:36
+[18-Oct-2017 19:00:35 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 53
+[18-Oct-2017 19:00:35 UTC] PHP Stack trace:
+[18-Oct-2017 19:00:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:00:35 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:53
+[18-Oct-2017 19:02:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 24
+[18-Oct-2017 19:02:07 UTC] PHP Stack trace:
+[18-Oct-2017 19:02:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:02:07 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:24
+[18-Oct-2017 19:02:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 25
+[18-Oct-2017 19:02:07 UTC] PHP Stack trace:
+[18-Oct-2017 19:02:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:02:07 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:25
+[18-Oct-2017 19:02:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 36
+[18-Oct-2017 19:02:07 UTC] PHP Stack trace:
+[18-Oct-2017 19:02:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:02:07 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:36
+[18-Oct-2017 19:02:07 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 53
+[18-Oct-2017 19:02:07 UTC] PHP Stack trace:
+[18-Oct-2017 19:02:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:02:07 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:53
+[18-Oct-2017 19:03:34 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 24
+[18-Oct-2017 19:03:34 UTC] PHP Stack trace:
+[18-Oct-2017 19:03:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:03:34 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:24
+[18-Oct-2017 19:03:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 25
+[18-Oct-2017 19:03:34 UTC] PHP Stack trace:
+[18-Oct-2017 19:03:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:03:34 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:25
+[18-Oct-2017 19:03:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 36
+[18-Oct-2017 19:03:34 UTC] PHP Stack trace:
+[18-Oct-2017 19:03:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:03:34 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:36
+[18-Oct-2017 19:06:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 18
+[18-Oct-2017 19:06:13 UTC] PHP Stack trace:
+[18-Oct-2017 19:06:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:06:13 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:18
+[18-Oct-2017 19:47:48 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 43
+[18-Oct-2017 19:47:48 UTC] PHP Stack trace:
+[18-Oct-2017 19:47:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:47:48 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:43
+[18-Oct-2017 19:47:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 43
+[18-Oct-2017 19:47:48 UTC] PHP Stack trace:
+[18-Oct-2017 19:47:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:47:48 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:43
+[18-Oct-2017 19:47:54 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 43
+[18-Oct-2017 19:47:54 UTC] PHP Stack trace:
+[18-Oct-2017 19:47:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:47:54 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:43
+[18-Oct-2017 19:47:54 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 43
+[18-Oct-2017 19:47:54 UTC] PHP Stack trace:
+[18-Oct-2017 19:47:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:47:54 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:43
+[18-Oct-2017 19:47:58 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 43
+[18-Oct-2017 19:47:58 UTC] PHP Stack trace:
+[18-Oct-2017 19:47:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:47:58 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:43
+[18-Oct-2017 19:47:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 43
+[18-Oct-2017 19:47:58 UTC] PHP Stack trace:
+[18-Oct-2017 19:47:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[18-Oct-2017 19:47:58 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:43
+[19-Oct-2017 21:23:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:23:10 UTC] PHP Stack trace:
+[19-Oct-2017 21:23:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:23:10 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 21:23:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:23:31 UTC] PHP Stack trace:
+[19-Oct-2017 21:23:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:23:31 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 21:23:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:23:32 UTC] PHP Stack trace:
+[19-Oct-2017 21:23:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:23:32 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 21:24:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:24:24 UTC] PHP Stack trace:
+[19-Oct-2017 21:24:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:24:24 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 21:24:48 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:24:48 UTC] PHP Stack trace:
+[19-Oct-2017 21:24:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:24:48 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 21:24:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:24:49 UTC] PHP Stack trace:
+[19-Oct-2017 21:24:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:24:49 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 21:24:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:24:50 UTC] PHP Stack trace:
+[19-Oct-2017 21:24:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:24:50 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 21:24:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:24:50 UTC] PHP Stack trace:
+[19-Oct-2017 21:24:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:24:50 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 21:24:51 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:24:51 UTC] PHP Stack trace:
+[19-Oct-2017 21:24:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:24:51 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 21:24:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:24:52 UTC] PHP Stack trace:
+[19-Oct-2017 21:24:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:24:52 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 21:24:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:24:53 UTC] PHP Stack trace:
+[19-Oct-2017 21:24:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:24:53 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 21:24:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:24:54 UTC] PHP Stack trace:
+[19-Oct-2017 21:24:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:24:54 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 21:28:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:28:25 UTC] PHP Stack trace:
+[19-Oct-2017 21:28:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:28:25 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 21:28:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:28:26 UTC] PHP Stack trace:
+[19-Oct-2017 21:28:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:28:26 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 21:28:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:28:26 UTC] PHP Stack trace:
+[19-Oct-2017 21:28:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:28:26 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 21:30:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'b7bb2f9ac871ba'@'%' to database 'heroku_3bdf6ad31089f8c' in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 22
+[19-Oct-2017 21:30:05 UTC] PHP Stack trace:
+[19-Oct-2017 21:30:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:0
+[19-Oct-2017 21:30:05 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php:22
+[19-Oct-2017 23:24:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 178
+[19-Oct-2017 23:24:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/phpMyAdmin-4.7.4-all-languages/work.php on line 178

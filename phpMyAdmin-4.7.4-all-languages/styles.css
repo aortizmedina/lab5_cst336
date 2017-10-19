@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-size: 26pt;
+}
+body{
+    background-color: maroon;
+    color: white;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: black;
+}
+select {
+    width: 12%;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+}
